@@ -12,7 +12,7 @@ Key Features:
 
 Create, Update, & Delete Notes: Full CRUD functionality for notes with titles and descriptions.
 
-REST API Development: Learn to build and interact with a robust backend API.
+REST API Development: Built and interacted with a robust backend API.
 
 Rate Limiting: Implements API protection using Upstash Redis.
 
