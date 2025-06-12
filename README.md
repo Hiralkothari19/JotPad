@@ -1,10 +1,10 @@
-MERN-THINKBOARD 🚀
+JotPad[MERN STACK PROJECT] 🚀
 
 A full-stack notes application built with the MERN stack (MongoDB, Express, React, Node.js). 
 
 Live Demo ✨
 
-Experience MERN-THINKBOARD live:
+Experience JotPad live:
 
 https://mern-thinkboard-laq0.onrender.com/
 
